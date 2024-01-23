@@ -378,6 +378,9 @@ table{
 .footer_img{
     width: 30px;
 }
+.superservicios-img{
+    width: 300px;
+}
 /* Media queries*/
 
 @media(max-width:800px){
